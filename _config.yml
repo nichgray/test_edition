@@ -10,7 +10,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus 
 
 ### Site Structure
 
-baseurl: "/edition_base" # the subpath of your site
+baseurl: "/test_edition" # the subpath of your site
 url: "https://recoveryhub.github.io/" # should not change for Recovery Hub projects
 
 ### Contact
